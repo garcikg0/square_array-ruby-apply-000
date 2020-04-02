@@ -1,4 +1,4 @@
 def square_array(numbers)
   numbers.each {|x|}
-  integer ** 2
+  x ** 2
 end
