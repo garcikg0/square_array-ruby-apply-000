@@ -1,4 +1,3 @@
 def square_array(numbers)
-  numbers.each_char { |each_cons|  }
-
+  numbers.each {|x| print x**2}
 end
