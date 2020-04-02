@@ -1,3 +1,3 @@
 def square_array(numbers)
-  numbers.each {|x| puts integer}
+  numbers.each {|x| puts x**2 }
 end
